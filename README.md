@@ -1,2 +1,2 @@
-# freeCodeCamp
+# freeCodeCamp Arithmetic Formatter
 Problems solving
