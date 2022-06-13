@@ -2,7 +2,7 @@ def arithmetic_arranger(tasks, c=False):
     # 4 empty strings for output
     s1, s2, s3, s4 = str(), str(), str(), str()
 
-    #function solve less than 5 problems
+    #function solve less than 6 problems
     if len(tasks) >= 6:
         return 'Error: Too many problems.'
     
